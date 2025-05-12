@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm André Proença</h1><br>
+<h1>Hi 👋, I'm André Proença</h1><br>
 <p>A passionate aspiring fullstack developer from Portugal:</p>
 
 💼In pursuit of a Junior Frontend/Fullstack Developer role<br>✨Currently learning Electron.js while developing a Desktop app<br>📚Enroled in Harvard's CS50P and CS50SQL
