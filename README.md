@@ -1,8 +1,8 @@
-<h1>Hi 👋, I'm André Proença</h1><br>
+<h1>Hi 👋, I'm André Proença</h1>
 <p>A passionate aspiring fullstack developer from Portugal:</p>
 
 💼In pursuit of a Junior Frontend/Fullstack Developer role<br>✨Currently learning Electron.js while developing a Desktop app<br>📚Enroled in Harvard's CS50P and CS50SQL
-<br><br>
+<br>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Gjakb5pv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andr%C3%A9-proen%C3%A7a-552a76257/) 
 <br>
